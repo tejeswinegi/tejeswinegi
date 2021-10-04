@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tejeswinegi
-- 👀 I’m interested in MMA
-- 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me 
+- 👀 I’m interested in Javascript, Python
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on anything JS projects
+- 📫 How to reach me ntejeswi@gmail.com
 
 <!---
 tejeswinegi/tejeswinegi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
